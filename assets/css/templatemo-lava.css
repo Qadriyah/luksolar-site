@@ -215,7 +215,7 @@ a.main-button-slider {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #7b04f9;
+  background-color: #005b7c;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -234,7 +234,7 @@ a.main-button {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #7b04f9;
+  background-color: #005b7c;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -256,7 +256,7 @@ button.main-button {
   font-size: 14px;
   border-radius: 25px;
   padding: 15px 25px;
-  background-color: #7b04f9;
+  background-color: #005b7c;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
@@ -286,7 +286,7 @@ button.main-button:hover {
 
 .center-heading h2 em {
   font-style: normal;
-  color: #7b04f9;
+  color: #005b7c;
 }
 
 .center-heading p {
@@ -296,8 +296,8 @@ button.main-button:hover {
 }
 
 .image {
-  filter: invert(25%) sepia(99%) saturate(7497%) hue-rotate(270deg)
-    brightness(90%) contrast(119%);
+  filter: invert(24%) sepia(55%) saturate(2572%) hue-rotate(172deg)
+    brightness(86%) contrast(105%);
 }
 
 /* 
@@ -322,11 +322,11 @@ header
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #7b04f9 !important;
+  color: #005b7c !important;
 }
 
 .background-header .nav li a.active {
-  color: #7b04f9 !important;
+  color: #005b7c !important;
 }
 
 .header-area {
@@ -402,7 +402,7 @@ header
 }
 
 .header-area .main-nav .nav li:hover a {
-  color: #7b04f9;
+  color: #005b7c;
 }
 
 .header-area .main-nav .nav li.submenu {
@@ -468,12 +468,12 @@ header
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #7b04f9;
+  background: #005b7c;
 }
 
 .header-area .main-nav .nav li.submenu ul li a:hover {
   background: #fff;
-  color: #7b04f9 !important;
+  color: #005b7c !important;
   padding-left: 25px;
 }
 
@@ -609,7 +609,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #7b04f9;
+  color: #005b7c;
 }
 
 @media (max-width: 1200px) {
@@ -677,7 +677,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #7b04f9 !important;
+    color: #005b7c !important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -751,7 +751,7 @@ welcome
 
 .welcome-area .header-text h1 em {
   font-style: normal;
-  color: #7b04f9;
+  color: #005b7c;
 }
 
 .welcome-area .header-text p {
@@ -942,11 +942,11 @@ testimonials
 }
 
 #testimonials .item .testimonial-content {
-  background: rgb(156, 70, 248);
+  background: rgb(0, 91, 124);
   background: linear-gradient(
     145deg,
-    rgba(156, 70, 248, 1) 0%,
-    rgba(123, 4, 249, 1) 100%
+    rgba(0, 91, 124, 1) 0%,
+    rgba(0, 25, 124, 1) 100%
   );
   margin-left: 60px;
   padding: 40px 30px;
@@ -1036,11 +1036,11 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(156, 70, 248);
+  background: rgb(0, 91, 124);
   background: linear-gradient(
     145deg,
-    rgba(156, 70, 248, 1) 0%,
-    rgba(123, 4, 249, 1) 100%
+    rgba(0, 91, 124, 1) 0%,
+    rgba(0, 25, 124, 1) 100%
   );
   position: absolute;
 }
@@ -1057,11 +1057,11 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(156, 70, 248);
+  background: rgb(0, 91, 124);
   background: linear-gradient(
     145deg,
-    rgba(156, 70, 248, 1) 0%,
-    rgba(123, 4, 249, 1) 100%
+    rgba(0, 91, 124, 1) 0%,
+    rgba(0, 25, 124, 1) 100%
   );
   position: absolute;
 }
@@ -1178,7 +1178,7 @@ footer .right-content {
 
 .footer-content .right-content h2 em {
   font-style: normal;
-  color: #7b04f9;
+  color: #000;
 }
 
 .footer-content .right-content p {
@@ -1225,8 +1225,8 @@ footer .social li a {
 }
 
 footer .social li a:hover {
-  background-color: #7b04f9;
-  border-color: #7b04f9;
+  background-color: #005b7c;
+  border-color: #005b7c;
   color: #fff;
 }
 
